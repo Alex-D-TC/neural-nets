@@ -1,8 +1,0 @@
-{
-  "hidden_layers": [13],
-  "activation": {
-    "a": "sigmoid",
-    "threshold": 0.5
-  },
-  "lambda": 0.002
-}

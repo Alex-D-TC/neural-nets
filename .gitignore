@@ -7,7 +7,10 @@ __pycache__/
 *.so
 
 # Resource files
-./resources
+resources/
+
+# Test files
+test/
 
 # Distribution / packaging
 .Python
